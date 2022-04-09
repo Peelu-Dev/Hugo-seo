@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://palashraghuwanshi.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Peelu Blogs"
@@ -7,7 +7,7 @@ theme = "KeepIt"
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
-googleAnalytics = ""
+googleAnalytics = "G-KD0VM5DJ1B"
 disqusShortname = "yourdiscussshortname"
 
 
