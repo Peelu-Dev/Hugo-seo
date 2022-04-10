@@ -1,5 +1,6 @@
 ---
 categories: ["Brain"]
+description: Separating truth from falsehood depends partly on knowing a person, so you can judge if they are behaving differently from usual. With a confident and persuasive talker, especially someone you don't know, how easy is to spot a lie?
 author:
   name : "Peelu"
 date: "2022-04-06"

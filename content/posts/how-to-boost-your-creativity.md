@@ -1,5 +1,6 @@
 ---
 categories: ["Brain"]
+description: Just as exercise builds muscles and improves cardiovascular fitness, there are activities that can improve your creativity conditioning, by getting areas of the brain to work together in new ways.
 author:
   name : "Peelu"
 date: "2022-04-08"

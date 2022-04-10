@@ -1,5 +1,6 @@
 ---
 categories: ["Brain"]
+description: The brain is the body's control center. It coordinates the basic functions required for survival, controls body movements, and processes sensory data. However, it also encodes a lifetime of memories and creates consciousness, imagination and our sense of self.
 author:
   name : "Peelu"
 date: "2022-04-07"

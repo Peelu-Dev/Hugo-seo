@@ -1,5 +1,6 @@
 ---
 categories: ["Brain"]
+description: Once we understand learning and recall, research shows that we can find ways to boost these processes and improve our memories. Some of the best memory techniques, such as the  memory palace, are actually some of the oldest.
 author:
   name : "Peelu"
 date: "2022-04-08"

@@ -1,5 +1,6 @@
 ---
 categories: ["Brain"]
+description: Identifying a smell out of of the many aroma in the world around us involves the olfactory system, which isolates different chemicals and then passes signals on to the brain to determine whether they are "good" or "bad".
 author:
   name : "Peelu"
 date: "2022-04-07"
