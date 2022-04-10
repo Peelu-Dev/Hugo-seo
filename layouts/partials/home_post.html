@@ -5,7 +5,7 @@
         {{ with .Site.Params.avatar}}
         {{ $avatar := .}}
         <div class="avatar">
-            <a href="/posts/"> <img src="{{ (printf "%s%s" $cdn_url $avatar)}}"> </a>
+            <a  href="/posts/">  <img src="{{ (printf "%s%s" $cdn_url $avatar)}}"> </a>
         </div>
         {{ end }}
         {{ if or .Params.gravatar.Email (and .Site.Params.gravatar.Email (ne .Params.gravatar.Email false)) }}
@@ -15,6 +15,11 @@
                     alt="gravatar"> </a>
         </div>
         {{ end }}
+
+        <div class="social-links">
+            {{ partial "social.html" . }}
+        
+          </div>
 
         {{ with .Site.Params.subtitle}}
         <h2 class="description">

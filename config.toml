@@ -1,7 +1,7 @@
 baseURL = "https://palashraghuwanshi.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Peelu Blogs"
+title = "Peelu Blogs | Brain Arduino IOT and much more"
 theme = "KeepIt"
 
 paginate = 12
