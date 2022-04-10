@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![People Running on road during daytime](https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80)
+![People running on road during daytime](https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1174&q=80)
 
 ## The brain is the body's control center. It coordinates the basic functions required for survival, controls body movements, and processes sensory data. However, it also encodes a lifetime of memories and creates consciousness, imagination and our sense of self.
 
