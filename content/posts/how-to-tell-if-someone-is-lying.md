@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![Man doing keep quiet sign](https://images.unsplash.com/photo-1531211373157-f54cd9ece990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80)
+![Man doing keep quiet sign](/lying.webp)
 
 - Separating truth from falsehood depends partly on knowing a person, so you can judge if they are behaving differently from usual. With a confident and persuasive talker, especially someone you don't know, how easy is to spot a lie?
 
@@ -29,7 +29,7 @@ series:
 
 ## Clues from speech
 
-![Woman whispering on other woman's ear](https://images.unsplash.com/photo-1482356432770-3a99f07aba35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80)
+![Woman whispering on other woman's ear](/lying1.webp)
 
 
 - Speech can be slightly more reliable. Hesitation, repeated words or phrases, breaking up sentences, a change in tone or in speaking speed, and describing unimportant details while avoiding the main topic-are all strategies give time to think and work out which falsehood might be more beleivable.

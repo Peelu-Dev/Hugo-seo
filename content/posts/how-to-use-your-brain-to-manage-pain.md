@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![Old Men having so much pain after injury](https://images.unsplash.com/photo-1596819648147-daf710ec0ff9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80)
+![Old Men having so much pain after injury](/oldMan.webp)
 
 ### When we are in pain, the usual courses of action involve  medical treatment or painkillers. However, we can also help to  control pain ourselves by regulating our mental response-both to the pain and to the stress it causes.
 
@@ -28,7 +28,7 @@ series:
 
 ## The Pain-Killer Problem
 
-![You can have side-effects if you consume more Pain-Killers](https://images.unsplash.com/photo-1471864190281-a93a3070b6de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![You can have side-effects if you consume more Pain-Killers](/painKillers.webp)
 
 - Medication is often essential to control pain in the short term, but taking Pain-Killers for an extended period can lead to issues such as addiction, or serious side-effects, including stomach ulcers and diseases.
 
@@ -36,7 +36,7 @@ series:
 
 ## Mind-Body Therapies
 
-![Increasing his  will power from mind-body therapies](https://images.unsplash.com/photo-1581090122319-8fab9528eaaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
+![Increasing his  will power from mind-body therapies](/injury.webp)
 
 - In addition to medication, we can use mind-body techniques such as relaxation and visualization to reduce or help control pain-with no risk of side effects.
 

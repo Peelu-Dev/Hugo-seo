@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![Women Smelling Pink Flower](https://images.unsplash.com/photo-1507007727303-1532f71109cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=436&q=80)
+![Women Smelling Flowers](/smell.webp)
 
 ### Identifying a smell out of of the many aroma in the world around us involves the olfactory system, which isolates different chemicals and then passes signals on to the brain to determine whether they are "good" or "bad".
 
@@ -24,7 +24,7 @@ series:
 
 #### How we identify smells is still a matter of debate for many years. Research suggests that most fragrance fall into ten groups-or primary fragrance-each of which alerts us to something in the environment. Most smells are made up of a combination of these groups. Smell is a key part of survival, telling us whether something is safe or dangerous and gives important information to the Brain.
 
-![Woman in white dress standing under brown tree](https://images.unsplash.com/photo-1616579182617-21e3b75d6e42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Woman in white dress standing under white Flowers tree](/smell1.webp)
 
 ### Fragrant :- Light, natural scents such as flowers, grasses, and herbs, typically used in perfumes gives an attracting smell and makes most of our brain's relaxing and cheerful.
 

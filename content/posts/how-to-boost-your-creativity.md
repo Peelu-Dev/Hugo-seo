@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![Women holding brown umbrella](https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1153&q=80)
+![Women holding brown umbrella](/creativity.webp)
 
 - Just as exercise builds muscles and improves cardiovascular fitness, there are activities that can improve your creativity conditioning, by getting areas of the brain to work together in new ways.
 
@@ -26,7 +26,7 @@ series:
 
 ## Cultivating new connections
 
-![Men in Black painting wall graffiti painting](https://images.unsplash.com/photo-1628359355624-855775b5c9c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Blue paint on a orange](/creative.webp)
 
 - Routines help regualte our daily lives, but they also reinforce existing neural pathways. Creativity-friendly activities create new neural connections.Learning to play a musical instrument, for example, opens and strengthens links between different brain areas.
 

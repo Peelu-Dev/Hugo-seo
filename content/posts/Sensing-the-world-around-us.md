@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![person holding green leaf on water](https://images.unsplash.com/photo-1620074064009-69e2eeeecfe9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=408&q=80)
+![person holding green leaf on water](/water.webp)
 
 ## To survive in our environment we must be able to react to, and interact with, stimuli produced by physical, chemical, and biological phenomena- sights, sounds, smells, tastes, and  touches. Sensors in the body pick up these signals and send them to the brain for decode.
 
@@ -32,7 +32,7 @@ series:
 
 - ### Touch :- Thought to be the first sense to develop in the womb, touch neurons respond to pressure, temperature, vibration, pain and light touch. Touch is how humans make  physical contact with the environment and with each other.
 
-![Person tries to feel water](https://images.unsplash.com/photo-1620045315169-771225b6b45c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Person tries to feel water](/water1.webp)
 
 - ### Hearing :- Sound waves in the  air are  collected by the ear and transmitted into the skull, where they are turned into electrical impulses by the  cochlea. Hearing is the most developed of the senses at birth but is only complete by the end of the first year.
 

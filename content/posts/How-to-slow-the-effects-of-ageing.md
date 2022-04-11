@@ -17,7 +17,7 @@ series:
 
 ## Introduction
 
-![Two old and women and old men walking in the street during daytime](https://images.unsplash.com/photo-1526635090919-b5d79657c5a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80)
+![Two old and women and old men walking in the street during daytime](/ageing.webp)
 
 - As we age, our thinking and short-term memory may become less efficient. Nevertheless, we continue to learn until we die, and we can take active measures to keep our brains working well at any age.
 
@@ -31,7 +31,7 @@ series:
 
 ###  Preventing Decline
 
-![Old man kissing her wife](https://images.unsplash.com/photo-1514415008039-efa173293080?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80)
+![Old man kissing her wife](/old.webp)
 
 - We can take a variety of steps to safeguard our brain's health. A good diet high in vegetables, fruits, "good"  quality fats and nutrients keeps  both brain and body healthy, and do moderate but regualr physical activities.
 
