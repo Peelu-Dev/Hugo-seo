@@ -167,10 +167,10 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     height = 600
 
 [params.gitalk]
-owner = ""       # Your GitHub ID
-repo = ""        # The repo to store comments
-clientId = ""    # Your client ID
-clientSecret = "" # Your client secret
+owner = "Peelu-Dev"       # Your GitHub ID
+repo = "Blog-comments"        # The repo to store comments
+clientId = "a6e74db76c1feda2eb4c"    # Your client ID
+clientSecret = "678da36f19e4e095f86b33e6dd4a82b8da18d600" # Your client secret
 
 [params.valine]
   enable = false
