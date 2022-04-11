@@ -1,12 +1,6 @@
 User-agent: *
 
-Disallow: /
-Disallow: /
-Disallow: /
-Allow: /css
-Allow: /font
-Allow: /images
-Allow: /js
+
 
 
 User-agent: MJ12bot
