@@ -6,7 +6,7 @@ Disallow: /
 Allow: /css
 Allow: /font
 Allow: /images
-Allow: js
+Allow: /js
 
 
 User-agent: MJ12bot
