@@ -16,7 +16,7 @@ series:
 
 ## Introduction
 
-![Person opening photo album displaying her old memories](https://images.unsplash.com/photo-1528569937393-ee892b976859?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![Person opening photo album displaying her old memories](/Memories1.webp)
 
 - Once we understand learning and recall, research shows that we can find ways to boost these processes and improve our memories. Some of the best memory techniques, such as the  memory palace, are actually some of the oldest.
 
@@ -30,7 +30,7 @@ series:
 
 ## The power of cues and rest
 
-![Sorting photos from past memories](https://images.unsplash.com/photo-1500051638674-ff996a0ec29e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1218&q=80)
+![Sorting photos from past memories](/Memories.webp)
 
 -  There are techniques we can use to recall information, and many of them rely on cues. These triggers can be internal, such as mnemonics, which provide the first letters of a list of items, cueing recalls of the items themselves.
 
