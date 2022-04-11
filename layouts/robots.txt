@@ -4,6 +4,12 @@ Disallow: /images/
 Disallow: /js/
 Disallow: /css/
 
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
 
 User-agent: MJ12bot
 Disallow: /
