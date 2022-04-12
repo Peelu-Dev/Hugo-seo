@@ -100,20 +100,20 @@ series:
 #### void setup()
   {
 
-    pinMode(ledWithResistor, OUTPUT);
+  ####  pinMode(ledWithResistor, OUTPUT);
     
   }
 
 #### void loop()
   {
 
-    digitalWrite(ledWithResistor, HIGH); // on the led
+  ####  digitalWrite(ledWithResistor, HIGH); // on the led
 
-    delay(2000); // Wait for 2000 millisecond(s)
+  ####  delay(2000); // Wait for 2000 millisecond(s)
 
-    digitalWrite(ledWithResistor, LOW);
+  ####  digitalWrite(ledWithResistor, LOW);
 
-    delay(1000); // Wait for 1000 millisecond(s)
+  ####  delay(1000); // Wait for 1000 millisecond(s)
     
   }
 
@@ -135,22 +135,21 @@ series:
 #### void setup()
   {
 
-    pinMode(ledWithResistor, OUTPUT);
+  ####  pinMode(ledWithResistor, OUTPUT);
     
   }
 
 #### void loop()
   {
 
-    digitalWrite(ledWithResistor, HIGH); // on the led
+  #### digitalWrite(ledWithResistor, HIGH);
 
-    delay(2000); // Wait for 2000 millisecond(s)
+  #### delay(2000); // Wait for 2000 millisecond(s)
 
-    digitalWrite(ledWithResistor, LOW);
+  #### digitalWrite(ledWithResistor, LOW);
 
-    delay(1000); // Wait for 1000 millisecond(s)
-    
-  }
+  #### delay(1000); // Wait for 1000 millisecond(s)
+}
 
 #### Open your TinkerCad account make the circuit and write this code in code section and click on start simulation button to see the Blinky effect in simulation without hardware.
 
