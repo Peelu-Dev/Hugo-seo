@@ -3,7 +3,7 @@ categories: ["Arduino"]
 description: How i learned to write my first magical code that is controlling LEDs according to my thinking.
 author:
   name : "Peelu"
-date: "2022-04-07"
+date: "2022-04-12"
 linktitle: "How i Controlled my LEDs with low or no programming knowledge and it really excites me"
 type: 
   - post
