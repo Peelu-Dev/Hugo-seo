@@ -32,15 +32,15 @@
     {{ end }}
 {{ end }}
 </div> <!-- //categories-card -->
- <!-- Tag cloud Page -->
+<!-- Tag cloud Page -->
 {{ else if and $.Site.Taxonomies.tags (eq $termName "tags") }}
-     <div class="tag-cloud-tags">
-          {{ range $.Site.Taxonomies.tags.ByCount }}
-            {{ if .Name }}
-            <a href="/tags/{{ .Name | urlize}}/"> {{ .Name }} <small>({{ .Count }})</small></a>
-            {{ end }}
-          {{end}}
-     </div>
+    <div class="tag-cloud-tags">
+         {{ range $.Site.Taxonomies.tags.ByCount }}
+           {{ if .Name }}
+           <a href="/tags/{{ .Name | urlize}}/"> {{ .Name }} <small>({{ .Count }})</small></a>
+           {{ end }}
+         {{end}}
+    </div>
 
 {{ end }}
 </div>

@@ -9,6 +9,7 @@ type:
   - post
   - posts
 title : "Beginner Guide to Arduino-01"
+tags: ['arduino','innovation']
 weight : 10
 series:  
   - Hugo 101
