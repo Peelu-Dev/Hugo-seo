@@ -3,7 +3,7 @@ categories: ["Brain"]
 description: Once we understand learning and recall, research shows that we can find ways to boost these processes and improve our memories. Some of the best memory techniques, such as the  memory palace, are actually some of the oldest.
 author:
   name : "Peelu"
-date: "2022-04-08"
+date: "2022-04-09"
 linktitle: "How to improve your memory"
 type: 
   - post
@@ -38,7 +38,7 @@ series:
 
 - Probably the most important thing we can do for our memories is get enough sleep.If we are tired, our focus and attention suffers, and the brain just isn't in the right state to learn. Sleep is also vital after learning for memories to be consolidated, sorted and stored.
 
-# Here is a quick recap of how to boost your memory:
+## Here is a quick recap of how to boost your memory:
 
 - ###  Process the information deeply.
 - ###  Rehearse it regularly.

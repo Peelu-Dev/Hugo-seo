@@ -1,7 +1,7 @@
 baseURL = "https://palashraghuwanshi.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Peelu Blogs | Brain Arduino IOT and  more"
+title = "Arduino & more"
 theme = "KeepIt"
 
 paginate = 12
@@ -62,7 +62,7 @@ disqusShortname = "palashraghuwanshi"
     pinterest_verification = ""
     baidu_verification = ""
 
-    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpg"#comment it to use gravatar
     socialShare = true
 
     description = "Learn more about Brain, Arduino, IOT, and much more" # site description

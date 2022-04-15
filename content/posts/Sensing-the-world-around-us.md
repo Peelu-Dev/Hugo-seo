@@ -3,7 +3,7 @@ categories: ["Brain"]
 description: "Scientists think there may be  as many as 20 senses. based on the number of different receptor types in the  body"
 author:
   name : "Peelu"
-date: "2022-04-10"
+date: "2022-04-13"
 linktitle: "Sensing the World around us"
 type: 
   - post

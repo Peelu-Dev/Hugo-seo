@@ -3,7 +3,7 @@ categories: ["Brain"]
 description: As we age, our thinking and short-term memory may become less efficient. Nevertheless, we continue to learn until we die, and we can take active measures to keep our brains working well at any age.
 author:
   name : "Peelu"
-date: "2022-04-09"
+date: "2022-04-10"
 linktitle: "How to slow the effects of ageing"
 type: 
   - post

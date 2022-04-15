@@ -3,7 +3,7 @@ categories: ["Brain"]
 description: When we are in pain, the usual courses of action involve  medical treatment or painkillers. However, we can also help to  control pain ourselves by regulating our mental response-both to the pain and to the stress it causes.
 author:
   name : "Peelu"
-date: "2022-04-09"
+date: "2022-04-11"
 linktitle: "How to use your brain to manage Pain"
 type: 
   - post

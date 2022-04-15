@@ -3,7 +3,7 @@ categories: ["Brain"]
 description: "Learn more about memories and their types here..."
 author:
   name : "Peelu"
-date: "2022-04-11"
+date: "2022-04-05"
 linktitle: "Special types of memories in our Brain"
 type: 
   - post

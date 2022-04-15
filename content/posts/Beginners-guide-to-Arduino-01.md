@@ -3,12 +3,12 @@ categories: ["Arduino"]
 description: Arduino Tutorial for beginners to build the innovative products and use it in our daily life
 author:
   name : "Peelu"
-date: "2022-04-13"
-linktitle: "Beginner Guide to Arduino-01"
+date: "2022-04-15"
+linktitle: "Introduction to arduino"
 type: 
   - post
   - posts
-title : "Beginner Guide to Arduino-01"
+title : "Introduction to arduino"
 tags: ['arduino','innovation']
 weight : 10
 series:  
