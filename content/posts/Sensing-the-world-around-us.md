@@ -22,11 +22,11 @@ series:
 
 ## Senses
 
-- Each sense has its own set of detectors. Most are localised in a specific area of the body, except for touch, which is spread all over the skin, as well inside the body.
+### Each sense has its own set of detectors. Most are localised in a specific area of the body, except for touch, which is spread all over the skin, as well inside the body.
 
-- Although the neurons and receptors for each sense are largely dedicated to that sense alone, they can sometimes overlap. Sensory information continuosly bombards the Brain, but only a fraction of input reaches consciousness.
+### Although the neurons and receptors for each sense are largely dedicated to that sense alone, they can sometimes overlap. Sensory information continuosly bombards the Brain, but only a fraction of input reaches consciousness.
 
-- Even so, the "unnoticed" information can still guide our actions, proprioception, which relays information  about the body's position in space.
+### Even so, the "unnoticed" information can still guide our actions, proprioception, which relays information  about the body's position in space.
 
 ## Different types of senses
 
