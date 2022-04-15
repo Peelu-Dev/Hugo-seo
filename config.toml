@@ -41,6 +41,11 @@ disqusShortname = "palashraghuwanshi"
     url = "/about"
     weight = 4
 
+  [[menu.main]]
+  name = "tags"
+  url = "/tags/"
+  weight = 10
+
 
  # subtitle = "A Hugo theme" Subtitle
 [params]
