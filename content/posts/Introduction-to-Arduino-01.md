@@ -4,11 +4,11 @@ description: Arduino Tutorial for beginners to build the innovative products and
 author:
   name : "Peelu"
 date: "2022-04-15"
-linktitle: "Introduction to arduino"
+linktitle: "Introduction to Arduino-01"
 type: 
   - post
   - posts
-title : "Introduction to arduino"
+title : "Introduction to Arduino-01"
 tags: ['arduino','innovation']
 weight : 10
 series:  
@@ -102,7 +102,7 @@ series:
 
 - ### Then I have set our onBoardLED to OUTPUT with the help of pinMode and pinMode is generally used for either OUTPUT or INPUT.
 
-- ### Then I have ON the onBoardLED with digitalWrite function and set it to HIGH and then wait for half second with delay function and then I have OFF the onBoardLED with digitalWrite function and set it to LOW and then wait for 1 second and that's the whole process of Blinking effect.
+- ### Then I have turn ON the onBoardLED with digitalWrite function and set it to HIGH and then wait for half second with delay function and then I have turn OFF the onBoardLED with digitalWrite function and set it to LOW and then wait for 1 second and that's the whole process of Blinking effect.
 
 
 ## Tinker CAD Simulation
