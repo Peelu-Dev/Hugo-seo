@@ -19,6 +19,8 @@ series:
 
 ![Arduino Board](https://cdn.pixabay.com/photo/2020/01/09/15/08/arduino-4753005_960_720.jpg)
 
+- ### Before we start our Tutorial my humble request is to use simulation softwares like Tinker Cad, Wokwi and Proteus as much as possible at the time of learning because nowadays we all are facing climate change, global-warming etc and we need to use less hardwares atleast at the time of learning or building the prototypes.
+
 - ###  We will start our todays lesson with some basics and slowly move into advance today we are going to blink external LED with our Arduino board and enjoy the process of learning in a fun and exciting manner.
 
 - ### To follow this lesson please follow  my previous lesson to understand well about Arduino Uno and its digital and analog pins so that we can use correctly and Breadboard and other parts of the hardware .

@@ -1,7 +1,7 @@
 baseURL = "https://palashraghuwanshi.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Arduino & more"
+title = "Arduino IOT & more"
 theme = "KeepIt"
 
 paginate = 12
