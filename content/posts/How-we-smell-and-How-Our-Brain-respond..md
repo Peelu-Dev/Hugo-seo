@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "How we smell and How Our Brain respond"
+featured_image: https://images.unsplash.com/photo-1501010832476-c4a5c5351fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Women Smelling Flowers](/smell.webp)
 
 ### Identifying a smell out of of the many aroma in the world around us involves the olfactory system, which isolates different chemicals and then passes signals on to the brain to determine whether they are "good" or "bad".
 

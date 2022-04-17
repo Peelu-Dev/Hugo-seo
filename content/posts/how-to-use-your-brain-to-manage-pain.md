@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "How to use your brain to manage Pain"
+featured_image: https://images.unsplash.com/photo-1596819648147-daf710ec0ff9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=374&q=80
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Old Men having so much pain after injury](/oldMan.webp)
 
 ### When we are in pain, the usual courses of action involve  medical treatment or painkillers. However, we can also help to  control pain ourselves by regulating our mental response-both to the pain and to the stress it causes.
 

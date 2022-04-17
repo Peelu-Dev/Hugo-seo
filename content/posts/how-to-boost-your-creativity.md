@@ -9,14 +9,12 @@ type:
   - post
   - posts
 title : "How to boost your creativity"
-weight : 10
+featured_image: https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGNyZWF0aXZpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Women holding brown umbrella](/creativity.webp)
 
 - Just as exercise builds muscles and improves cardiovascular fitness, there are activities that can improve your creativity conditioning, by getting areas of the brain to work together in new ways.
 

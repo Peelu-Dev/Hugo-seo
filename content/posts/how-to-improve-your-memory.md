@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "How to improve your memory"
+featured_image: https://images.unsplash.com/photo-1528569937393-ee892b976859?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVtb3JpZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Person opening photo album displaying her old memories](/Memories1.webp)
 
 - Once we understand learning and recall, research shows that we can find ways to boost these processes and improve our memories. Some of the best memory techniques, such as the  memory palace, are actually some of the oldest.
 

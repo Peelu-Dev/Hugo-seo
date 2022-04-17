@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "Sensing the World around us"
+featured_image: https://images.unsplash.com/photo-1620074064009-69e2eeeecfe9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZmVlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![person holding green leaf on water](/water.webp)
 
 ## To survive in our environment we must be able to react to, and interact with, stimuli produced by physical, chemical, and biological phenomena- sights, sounds, smells, tastes, and  touches. Sensors in the body pick up these signals and send them to the brain for decode.
 

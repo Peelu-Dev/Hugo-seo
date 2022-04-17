@@ -9,6 +9,7 @@ type:
   - post
   - posts
 title : "How to slow the effects of ageing"
+featured_image: https://images.unsplash.com/photo-1526635090919-b5d79657c5a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YWdlaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
 weight : 10
 series:  
   - Hugo 101
@@ -16,8 +17,6 @@ series:
 
 
 ## Introduction
-
-![Two old and women and old men walking in the street during daytime](/ageing.webp)
 
 - As we age, our thinking and short-term memory may become less efficient. Nevertheless, we continue to learn until we die, and we can take active measures to keep our brains working well at any age.
 

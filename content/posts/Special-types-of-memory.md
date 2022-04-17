@@ -9,6 +9,7 @@ type:
   - post
   - posts
 title : "Special types of memories in our Brain"
+featured_image: https://images.unsplash.com/photo-1528569937393-ee892b976859?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVtb3JpZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
 weight : 10
 series:  
   - Hugo 101
@@ -16,8 +17,6 @@ series:
 
 
 ## Introduction
-
-![Person opening photo album displaying her old memories](/Memories1.webp)
 
 ## Although a few children exhibit remarkable skills, most people with exceptional memory are not born that way. Instead, they use special techniques and lots of practice, sometimes leading to physical changes in their brains.
 

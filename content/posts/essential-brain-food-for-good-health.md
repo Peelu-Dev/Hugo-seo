@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "Essential Brain Foods for good Health"
+featured_image : "https://images.unsplash.com/photo-1481391032119-d89fee407e44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80"
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Chocolate pouring on  vanilla ice-cream in ceramic cup](/brain2.webp)
 
 ### Like any other organ, the human brain needs a constant supply of water and nutrients to maintain its health and to supply energy for efficient functioning.
 

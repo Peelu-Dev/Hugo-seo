@@ -9,14 +9,13 @@ type:
   - post
   - posts
 title : "How to tell if someone is lying"
+featured_image: https://images.unsplash.com/photo-1531211373157-f54cd9ece990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80
 weight : 10
 series:  
   - Hugo 101
 ---
 
 ## Introduction
-
-![Man doing keep quiet sign](/lying.webp)
 
 - Separating truth from falsehood depends partly on knowing a person, so you can judge if they are behaving differently from usual. With a confident and persuasive talker, especially someone you don't know, how easy is to spot a lie?
 
