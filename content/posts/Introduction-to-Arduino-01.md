@@ -10,16 +10,17 @@ type:
   - posts
 title : "Introduction to Arduino-01"
 tags: ['arduino','innovation']
+featured_image: "https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80"
 weight : 10
 series:  
   - Hugo 101
 ---
 
+
+
 ![Visit BlogAdda.com to discover latest blogs](https://www.blogadda.com/images/blogadda.png)
 
 ## Introduction
-
-![Arduino](https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80)
 
 - ### Before we start our Tutorial my humble request is to use simulation softwares like Tinker Cad, Wokwi and Proteus as much as possible at the time of learning because nowadays we all are facing climate change, global-warming etc and we need to use less hardwares atleast at the time of learning or building the prototypes.
 
