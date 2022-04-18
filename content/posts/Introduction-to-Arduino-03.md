@@ -3,12 +3,12 @@ categories: ["Arduino"]
 description: Arduino Tutorial for beginners to build the innovative products and use it in our daily life
 author:
   name : "Peelu"
-date: "2022-04-15"
-linktitle: "Introduction to Arduino Programming-01"
+date: "2022-04-18"
+linktitle: "Introduction to Arduino-03"
 type: 
   - post
   - posts
-title : "Introduction to Arduino Programming-01"
+title : "Introduction to Arduino-03"
 tags: ['arduino','innovation']
 featured_image: https://images.unsplash.com/photo-1553406830-ef2513450d76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80
 weight : 10
@@ -17,8 +17,6 @@ series:
 ---
 
 ## Introduction
-
-![Honey stored in a container like we contain leds inside a variable](https://cdn.pixabay.com/photo/2015/06/27/16/35/honey-823614_960_720.jpg)
 
 - ### Before we start our Tutorial my humble request is to use simulation softwares like Tinker Cad, Wokwi and Proteus as much as possible at the time of learning because nowadays we all are facing climate change, global-warming etc and we need to use less hardwares atleast at the time of learning or building the prototypes.
 
@@ -29,6 +27,9 @@ series:
 - ### We will start our journey of Arduino Programming by learning variables and its uses in Arduino.
 
 - ## Variables
+
+
+![Honey stored in a container like we contain leds inside a variable](https://cdn.pixabay.com/photo/2015/06/27/16/35/honey-823614_960_720.jpg)
 
 - ### Variables are nothing but a container to store some data for a later use. You can think like a Bag full of Books or School full of students and teachers etc.
 
