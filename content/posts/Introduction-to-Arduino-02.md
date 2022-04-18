@@ -16,7 +16,7 @@ series:
   - Hugo 101
 ---
 
-## Intro
+## Introduction
 
 - ### Before we start our Tutorial my humble request is to use simulation softwares like Tinker Cad, Wokwi and Proteus as much as possible at the time of learning because nowadays we all are facing climate change, global-warming etc and we need to use less hardwares atleast at the time of learning or building the prototypes.
 
