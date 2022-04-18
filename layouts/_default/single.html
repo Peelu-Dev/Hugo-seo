@@ -48,6 +48,11 @@
           {{ $finalContent }}
     </div>
 
+    <div>
+        <p> <b> If you liked this post and would like to read more of my posts.Then subscribe to my  newsletter</b></p>
+        <a class = "subscribe" href="https://tinyletter.com/peelu" target="_blank">Subscribe</a>
+      </div>
+
     <div class="post-copyright">
             {{ with .Site.Params.author }} 
             <p class="copyright-item">
@@ -91,6 +96,8 @@
                 <span><a href="{{ .Site.BaseURL }}">{{ i18n "Home" }}</a></span>
         </section>
     </div>
+
+    
 
     <div class="post-nav">
         {{ if .PrevInSection }}
