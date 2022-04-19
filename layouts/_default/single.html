@@ -97,7 +97,6 @@
         </section>
     </div>
 
-    
 
     <div class="post-nav">
         {{ if .PrevInSection }}
@@ -107,12 +106,13 @@
         <a href="{{.NextInSection.Permalink}}" class="next" rel="next" title="{{.NextInSection.Title}}">{{.NextInSection.Title}}&nbsp;<i class="iconfont icon-xiaojiantou"></i></a>
         {{ end }}
     </div>
-
     <div class="post-comment">
           {{ if ( .Params.showComments | default true ) }}
           {{ partial "comments.html" . }}
           {{ end }}
     </div>
 </article>
+<script src="https://cdn.jsdelivr.net/gh/sprucejoy/cookie-consent-autoblock-gdpr/cookie-consent.js" crossorigin="anonymous"></script> 
 {{- end }}
+
 
