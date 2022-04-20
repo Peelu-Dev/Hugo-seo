@@ -77,3 +77,10 @@ series:
 - ### Array - Array data type is 	1 byte + (sizeOfType * # of elements)  bytes in terms of size and it is ranges from N/A.
 
 - ### We will discuss about Data Types and how we can use it in Arduino programming in my next Blog as if i will discuss in this blog it will become too lengthy.
+
+- ### Link to my next blog is given below to know how different Data Types works in Arduino Programming.
+
+  [Data Types](https://palashraghuwanshi.com/2022/introduction-to-arduino-05/)
+
+
+  
